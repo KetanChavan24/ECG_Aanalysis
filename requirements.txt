@@ -1,0 +1,7 @@
+tensorflow==2.16.1
+scikit-learn
+pillow
+matplotlib
+seaborn
+streamlit
+watchdog 
